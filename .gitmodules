@@ -1,7 +1,7 @@
 [submodule "dss-notebooks"]
 	path = dss-notebooks
 	url = https://github.com/ecmwf-training/dss-notebooks
-[submodule "copernicus-training-cams"]
+[submodule "cams-training"]
 	path = cams-training
 	url = https://github.com/ecmwf-training/cams-training
 [submodule "c3s-training/sat-obs-ocean"]
